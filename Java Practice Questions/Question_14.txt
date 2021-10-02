@@ -1,0 +1,10 @@
+//Question_14: How to define Vector class??
+
+
+
+A. Synchronized and Non-serialized
+B. Non-Synchronized and Serialized.
+C. Both A and B are Correct
+D. None of the above
+
+Answer:A

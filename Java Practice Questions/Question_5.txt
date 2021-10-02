@@ -1,0 +1,10 @@
+// Question_5: Is there a destructor for Java?
+
+A. No, Because Java is a garbage collected language, you cannot predict when (or even if) 
+an object will be destroyed.
+B. Yes, Java is quite mature as a language and memory leak can be fixed.
+C. Java objects are heap allocated and garbage collected, that's why destructor used in 
+java.
+D. None of the above.
+
+ Answer:- A
